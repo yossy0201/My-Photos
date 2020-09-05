@@ -46,3 +46,11 @@ header h1 {
   margin: 0;
   width: 100%;
 } 
+
+.inner p {
+  padding: 20px;
+}
+
+.inner span {
+  margin-left: 10px;
+}
